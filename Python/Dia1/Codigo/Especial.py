@@ -1,0 +1,1 @@
+print("Eres un hijo de puta " + input(" introduce tu Nombre ") + " " + input("Introduce tu apellido ") + " maldicion gitana pati y pa toa tu familia ")
