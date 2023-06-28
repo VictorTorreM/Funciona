@@ -61,7 +61,7 @@ eleccion = int(input("""Que desea hacer
 while bucle == True:
     
     match eleccion:
-        case 1:
+        case 1: 
             consultar(cliente1)
             seguir = input("Seguir S/N,\n").lower()
             if seguir == "s":
